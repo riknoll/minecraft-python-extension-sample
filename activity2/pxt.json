@@ -1,10 +1,11 @@
 {
-    "name": "minecraft-python-extension-sample",
-    "version": "0.0.2",
+    "name": "minecraft-python-extension-sample-activity2",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
-        "builder": "*"
+        "builder": "*",
+        "minecraft-python-extension-sample": "github:riknoll/minecraft-python-extension-sample"
     },
     "files": [
         "main.ts"
